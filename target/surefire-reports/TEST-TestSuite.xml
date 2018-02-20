@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="34.663" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="36.526" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
@@ -62,10 +62,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="firstLinkTest" classname="TestMailRu" time="3.559"/>
-  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="2.455"/>
-  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="2.384"/>
-  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="2.4"/>
-  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="9.466"/>
-  <testcase name="searchTest" classname="TestMailRu" time="2.647"/>
+  <testcase name="firstLinkTest" classname="TestMailRu" time="3.674"/>
+  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="3.105"/>
+  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="2.278"/>
+  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="2.734"/>
+  <testcase name="searchAndVerifyResultsTest" classname="TestMailRu" time="9.542"/>
+  <testcase name="searchTest" classname="TestMailRu" time="3.382"/>
 </testsuite>

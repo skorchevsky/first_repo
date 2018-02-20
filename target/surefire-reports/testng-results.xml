@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31816" started-at="2018-02-20T10:45:46Z" finished-at="2018-02-20T10:46:18Z">
+  <suite name="Suite" duration-ms="33962" started-at="2018-02-20T12:46:48Z" finished-at="2018-02-20T12:47:22Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31816" started-at="2018-02-20T10:45:46Z" finished-at="2018-02-20T10:46:18Z">
+    <test name="Test" duration-ms="33962" started-at="2018-02-20T12:46:48Z" finished-at="2018-02-20T12:47:22Z">
       <class name="TestMailRu">
-        <test-method status="PASS" signature="start()[pri:0, instance:TestMailRu@2beee3e8]" name="start" is-config="true" duration-ms="8652" started-at="2018-02-20T10:45:46Z" finished-at="2018-02-20T10:45:55Z">
+        <test-method status="PASS" signature="start()[pri:0, instance:TestMailRu@6febec41]" name="start" is-config="true" duration-ms="8975" started-at="2018-02-20T12:46:48Z" finished-at="2018-02-20T12:46:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="firstLinkTest()[pri:0, instance:TestMailRu@2beee3e8]" name="firstLinkTest" duration-ms="3560" started-at="2018-02-20T10:45:55Z" description="First Link Test" finished-at="2018-02-20T10:45:58Z">
+        <test-method status="PASS" signature="firstLinkTest()[pri:0, instance:TestMailRu@6febec41]" name="firstLinkTest" duration-ms="3667" started-at="2018-02-20T12:46:57Z" description="First Link Test" finished-at="2018-02-20T12:47:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstLinkTest -->
-        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@2beee3e8]" name="searchAndVerifyResultsTest" duration-ms="2454" started-at="2018-02-20T10:45:58Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T10:46:01Z">
+        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@6febec41]" name="searchAndVerifyResultsTest" duration-ms="3105" started-at="2018-02-20T12:47:01Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T12:47:04Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndVerifyResultsTest -->
-        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@2beee3e8]" name="searchAndVerifyResultsTest" duration-ms="2119" started-at="2018-02-20T10:46:01Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T10:46:03Z">
+        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@6febec41]" name="searchAndVerifyResultsTest" duration-ms="2278" started-at="2018-02-20T12:47:04Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T12:47:06Z">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndVerifyResultsTest -->
-        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@2beee3e8]" name="searchAndVerifyResultsTest" duration-ms="2402" started-at="2018-02-20T10:46:03Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T10:46:05Z">
+        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@6febec41]" name="searchAndVerifyResultsTest" duration-ms="2734" started-at="2018-02-20T12:47:06Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T12:47:09Z">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndVerifyResultsTest -->
-        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@2beee3e8]" name="searchAndVerifyResultsTest" duration-ms="9464" started-at="2018-02-20T10:46:05Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T10:46:15Z">
+        <test-method status="PASS" signature="searchAndVerifyResultsTest(java.lang.String)[pri:0, instance:TestMailRu@6febec41]" name="searchAndVerifyResultsTest" duration-ms="9542" started-at="2018-02-20T12:47:09Z" description="Search And Verify Results Test" data-provider="TestDataFromFile" finished-at="2018-02-20T12:47:19Z">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndVerifyResultsTest -->
-        <test-method status="PASS" signature="searchTest()[pri:0, instance:TestMailRu@2beee3e8]" name="searchTest" duration-ms="2644" started-at="2018-02-20T10:46:15Z" description="Search Test" finished-at="2018-02-20T10:46:18Z">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:TestMailRu@6febec41]" name="searchTest" duration-ms="3381" started-at="2018-02-20T12:47:19Z" description="Search Test" finished-at="2018-02-20T12:47:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:TestMailRu@2beee3e8]" name="close" is-config="true" duration-ms="2" started-at="2018-02-20T10:46:18Z" finished-at="2018-02-20T10:46:18Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:TestMailRu@6febec41]" name="close" is-config="true" duration-ms="1" started-at="2018-02-20T12:47:22Z" finished-at="2018-02-20T12:47:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
