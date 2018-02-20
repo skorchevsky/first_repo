@@ -17,8 +17,8 @@ import static com.codeborne.selenide.Selenide.open;
 import static core.helpers.Locators.get;
 
 public class LoginPage extends PageBase{
-    private static final String fillToEmail = "sergkorchevskiy";
-    private static final String fillToPassword = "ab1757792";
+    private static final String fillToEmail = "email";
+    private static final String fillToPassword = "pass";
 
     //public static final By email = get("login.name");
 
