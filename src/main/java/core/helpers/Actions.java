@@ -44,7 +44,7 @@ public class Actions {
     public static void sikuli ()throws Exception {
 
         Screen screen = new Screen();
-        Pattern pattern = new Pattern("D:\\Automation\\Java\\testng2\\result\\etalonFile.png");
+        Pattern pattern = new Pattern("result\\etalonFile.png");
         screen.find(pattern);
     }
 }

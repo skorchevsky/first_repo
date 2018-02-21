@@ -34,7 +34,7 @@ public class TestMailRu extends TestBase{
         HeaderPage.searchHeader();
         SearchPage.performSearch();
         SearchPage.clickImagesResults();
-        //sikuli();
+        sikuli();
         //SearchPage.scrollImagesResultsAndClickBtnShowMore();
 
         //SearchPage.verifyThatImagesEqual();

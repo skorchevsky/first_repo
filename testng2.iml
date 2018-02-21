@@ -77,9 +77,9 @@
     <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.58" level="project" />
     <orderEntry type="library" name="Maven: net.lightbody.bmp:mitm:2.1.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.codeborne:phantomjsdriver:1.4.4" level="project" />
-    <orderEntry type="library" name="Maven: io.qameta.allure:allure-testng:2.0-BETA22" level="project" />
-    <orderEntry type="library" name="Maven: io.qameta.allure:allure-descriptions-javadoc:2.0-BETA22" level="project" />
-    <orderEntry type="library" name="Maven: io.qameta.allure:allure-java-commons:2.0-BETA22" level="project" />
+    <orderEntry type="library" name="Maven: io.qameta.allure:allure-testng:2.0-BETA21" level="project" />
+    <orderEntry type="library" name="Maven: io.qameta.allure:allure-descriptions-javadoc:2.0-BETA21" level="project" />
+    <orderEntry type="library" name="Maven: io.qameta.allure:allure-java-commons:2.0-BETA21" level="project" />
     <orderEntry type="library" name="Maven: io.qameta.allure:allure2-model-api:1.0-BETA6" level="project" />
     <orderEntry type="library" name="Maven: io.qameta.allure:allure2-model-pojo:1.0-BETA6" level="project" />
     <orderEntry type="library" name="Maven: io.qameta.allure:allure2-model-jackson:1.0-BETA6" level="project" />
