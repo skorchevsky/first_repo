@@ -42,9 +42,10 @@ public class Actions {
         executeJavaScript("window.scrollTo(" + location.getX() + ", " + (location.getY() - 200) + ')');
     }
     public static void sikuli ()throws Exception {
+        //Region region = new Region(0,0,1000,1000);
 
         Screen screen = new Screen();
-        Pattern pattern = new Pattern("result\\etalonFile.png");
+        Pattern pattern = new Pattern("result\\etalonFile4.png").similar(0);
         screen.find(pattern);
     }
 }
