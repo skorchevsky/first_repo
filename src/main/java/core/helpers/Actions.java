@@ -48,5 +48,10 @@ public class Actions {
         Pattern pattern = new Pattern("result\\etalonFile4.png").similar(0);
         screen.find(pattern);
     }
+
+    public static void scrollToElement(By elementLocator) {
+        Point location = $(elementLocator).getLocation();
+        executeJavaScript("window.scrollTo(" + location.getX() + ", " + (location.getY()) + ')');
+    }
 }
 
