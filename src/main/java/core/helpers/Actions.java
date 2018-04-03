@@ -53,5 +53,10 @@ public class Actions {
         Point location = $(elementLocator).getLocation();
         executeJavaScript("window.scrollTo(" + location.getX() + ", " + (location.getY()) + ')');
     }
+
+    public static void scrollOnRangeElement(By elementLocator, int range) {
+        Point location = $(elementLocator).getLocation();
+        executeJavaScript("window.scrollTo(" + location.getX() + ", " + (location.getY() - range) + ')');
+    }
 }
 
